@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>/shop</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>/shop/hombre</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/shop/mujer</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/shop/ninos</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>/shop/playa</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/shop/accesorios</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/collections</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/collections/summer</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/collections/ocean</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/collections/beach-life</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/producto/beach-polo-ocean</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>/producto/beach-polo-sunset</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>/producto/beach-polo-palm</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>/producto/beach-polo-premium</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>/stories</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>/about</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/contact</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/size-guide</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>

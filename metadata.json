@@ -1,0 +1,6 @@
+{
+  "name": "BEACH POLO – Vive la Playa",
+  "description": "Plataforma ecommerce premium de moda beachwear inspirada en el océano y el verano peruano. Polos, ropa de playa y accesorios con envíos a todo el Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
