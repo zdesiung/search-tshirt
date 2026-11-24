@@ -1026,7 +1026,7 @@ async function startServer() {
 
   const port = Number(process.env.PORT || 3000);
   app.listen(port, '0.0.0.0', () => {
-    console.log(`BEACH POLO Perú Sales Server running on http://0.0.0.0:${port}`);
+    console.log(`BEACH POLO Perú Sales Server running on http://localhost:${port}`);
   });
 }
 
